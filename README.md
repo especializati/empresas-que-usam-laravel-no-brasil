@@ -15,7 +15,7 @@ Nome | Link | Breve descrição
 ------------ | ------- | ------------
 Borget CMS | https://github.com/odirleiborgert/borgert-cms | CMS
 School | https://github.com/resultsystems/school | Sistema para gerenciamento de escolas
-
+Gitscrum | https://github.com/renatomarinho/laravel-gitscrum | Gerenciador de tarefas Git e Scrum
 
 ## Packages do Laravel desenvolvidos/mantidos por Brasileiros
 
@@ -30,6 +30,7 @@ SEOTools | https://github.com/artesaos/seotools | Otimização de SEO
 Slack API | https://github.com/vluzrmos/laravel-slack-api | Wrapper para API Web do Slack.com
 Tracker | https://github.com/antonioribeiro/tracker | Rastreador de estatísticas
 Validation | https://github.com/KennedyTedesco/Validation | Validação de dados
+
 
 # Como contribuir
 
