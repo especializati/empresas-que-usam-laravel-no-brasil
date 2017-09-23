@@ -30,6 +30,7 @@ SEOTools | https://github.com/artesaos/seotools | Otimização de SEO
 Slack API | https://github.com/vluzrmos/laravel-slack-api | Wrapper para API Web do Slack.com
 Tracker | https://github.com/antonioribeiro/tracker | Rastreador de estatísticas
 Validation | https://github.com/KennedyTedesco/Validation | Validação de dados
+Laravel Page Speed | https://github.com/renatomarinho/laravel-page-speed | Inspirado no Mod Page Speed 
 
 
 # Como contribuir
