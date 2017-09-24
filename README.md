@@ -3,11 +3,13 @@
 
 Nome | Website  | Segmento | Cidade
 ------------ | ------- |  ------------ |-------
+Agência Luma | http://www.agencialuma.com.br/ | Desenvolvimento Web | Florianópolis-SC
 EspecializaTI | http://www.especializati.com.br/ | Cursos e treinamentos | Catalão-GO
 HPE Seguros | http://www.hpeseguros.com.br/ | Seguros | Catalão-GO
 Kino Contabilidade | https://www.sejakino.com.br/ | Contabilidade | Belo Horizonte-MG
 Leroy Merlim | https://www.leroymerlin.com.br/ | E-commerce | São Paulo-SP
 Mitsubishi Motors | https://www.mmcb.com.br/ | Portal Corporativo | Catalão-GO
+Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Sociais  | Florianópolis-SC
 
 ## Projetos que usam Laravel no Brasil
 
