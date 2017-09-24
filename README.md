@@ -8,6 +8,7 @@ HPE Seguros | http://www.hpeseguros.com.br/ | Seguros | Catalão-GO
 Kino Contabilidade | https://www.sejakino.com.br/ | Contabilidade | Belo Horizonte-MG
 Leroy Merlim | https://www.leroymerlin.com.br/ | E-commerce | São Paulo-SP
 Mitsubishi Motors | https://www.mmcb.com.br/ | Portal Corporativo | Catalão-GO
+King of Code | http://kingofcode.com.br | Desenvolvimento de Sistemas | Araçatuba-SP
 
 ## Projetos que usam Laravel no Brasil
 
