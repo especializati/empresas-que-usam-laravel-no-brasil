@@ -26,6 +26,7 @@ Entrust | https://github.com/Zizaco/entrust | ACL
 Firewall | https://github.com/antonioribeiro/firewall | Firewall
 L5 Repository | https://github.com/andersao/l5-repository | Abstração da camada de banco de dados
 Laravel Pagseguro | https://github.com/michaeldouglas/laravel-pagseguro | Integração com API do PagSeguro
+Pagar.me Laravel | https://github.com/flyingluscas/pagarme-laravel | Pagar.me Laravel SDK
 SEOTools | https://github.com/artesaos/seotools | Otimização de SEO
 Slack API | https://github.com/vluzrmos/laravel-slack-api | Wrapper para API Web do Slack.com
 Tracker | https://github.com/antonioribeiro/tracker | Rastreador de estatísticas
