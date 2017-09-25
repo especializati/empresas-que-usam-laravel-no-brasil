@@ -3,12 +3,16 @@
 
 Nome | Website  | Segmento | Cidade
 ------------ | ------- |  ------------ |-------
+Agência Luma | http://www.agencialuma.com.br/ | Desenvolvimento Web | Florianópolis-SC
 EspecializaTI | http://www.especializati.com.br/ | Cursos e treinamentos | Catalão-GO
 HPE Seguros | http://www.hpeseguros.com.br/ | Seguros | Catalão-GO
+King of Code | http://kingofcode.com.br/ | Desenvolvimento de Sistemas | Araçatuba-SP
 Kino Contabilidade | https://www.sejakino.com.br/ | Contabilidade | Belo Horizonte-MG
 Leroy Merlim | https://www.leroymerlin.com.br/ | E-commerce | São Paulo-SP
 Mitsubishi Motors | https://www.mmcb.com.br/ | Portal Corporativo | Catalão-GO
-King of Code | http://kingofcode.com.br | Desenvolvimento de Sistemas | Araçatuba-SP
+Sicoob Credicom | http://www.sicoobcredicom.com.br/ | Cooperativa de crédito | Belo Horizonte-MG
+Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Sociais  | Florianópolis-SC
+Worktec | http://www.worktec.eti.br/ | Soluções bancárias | Belo Horizonte-MG
 
 ## Projetos que usam Laravel no Brasil
 
@@ -26,12 +30,13 @@ Defender | https://github.com/artesaos/defender | ACL
 Entrust | https://github.com/Zizaco/entrust | ACL
 Firewall | https://github.com/antonioribeiro/firewall | Firewall
 L5 Repository | https://github.com/andersao/l5-repository | Abstração da camada de banco de dados
+Laravel Page Speed | https://github.com/renatomarinho/laravel-page-speed | Inspirado no Mod Page Speed
 Laravel Pagseguro | https://github.com/michaeldouglas/laravel-pagseguro | Integração com API do PagSeguro
 Pagar.me Laravel | https://github.com/flyingluscas/pagarme-laravel | Pagar.me Laravel SDK
 SEOTools | https://github.com/artesaos/seotools | Otimização de SEO
 Slack API | https://github.com/vluzrmos/laravel-slack-api | Wrapper para API Web do Slack.com
 Tracker | https://github.com/antonioribeiro/tracker | Rastreador de estatísticas
-Validation | https://github.com/KennedyTedesco/Validation | Validação de dados
+Validation | https://github.com/KennedyTedesco/Validation | Validação de dados 
 
 
 # Como contribuir
