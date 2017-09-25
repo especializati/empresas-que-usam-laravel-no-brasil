@@ -9,6 +9,7 @@ HPE Seguros | http://www.hpeseguros.com.br/ | Seguros | Catalão-GO
 King of Code | http://kingofcode.com.br/ | Desenvolvimento de Sistemas | Araçatuba-SP
 Kino Contabilidade | https://www.sejakino.com.br/ | Contabilidade | Belo Horizonte-MG
 Leroy Merlim | https://www.leroymerlin.com.br/ | E-commerce | São Paulo-SP
+MG Papelaria | http://mgpapelaria.com.br/ | Papelaria | Sinop-MT
 Mitsubishi Motors | https://www.mmcb.com.br/ | Portal Corporativo | Catalão-GO
 Sicoob Credicom | http://www.sicoobcredicom.com.br/ | Cooperativa de crédito | Belo Horizonte-MG
 Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Sociais  | Florianópolis-SC
