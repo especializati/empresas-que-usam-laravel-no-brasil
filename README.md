@@ -9,7 +9,9 @@ HPE Seguros | http://www.hpeseguros.com.br/ | Seguros | Catalão-GO
 Kino Contabilidade | https://www.sejakino.com.br/ | Contabilidade | Belo Horizonte-MG
 Leroy Merlim | https://www.leroymerlin.com.br/ | E-commerce | São Paulo-SP
 Mitsubishi Motors | https://www.mmcb.com.br/ | Portal Corporativo | Catalão-GO
+Sicoob Credicom | http://www.sicoobcredicom.com.br/ | Cooperativa de crédito | Belo Horizonte-MG
 Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Sociais  | Florianópolis-SC
+Worktec | http://www.worktec.eti.br/ | Soluções bancárias | Belo Horizonte-MG
 
 ## Projetos que usam Laravel no Brasil
 
