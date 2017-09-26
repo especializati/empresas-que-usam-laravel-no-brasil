@@ -23,6 +23,9 @@ Nome | Link | Breve descrição
 Borget CMS | https://github.com/odirleiborgert/borgert-cms | CMS
 School | https://github.com/resultsystems/school | Sistema para gerenciamento de escolas
 Gitscrum | https://github.com/renatomarinho/laravel-gitscrum | Gerenciador de tarefas Git e Scrum
+Betfellows | https://betfellows.com/pt-br | Prognostico Esportivo
+Tef.net Ticket | https://portal.tef.net.br/ticket | Gerenciador de ordem de serviço
+StakeToys | https://www.staketoys.com/pt | Gestão de apostas esportivas
 
 ## Packages do Laravel desenvolvidos/mantidos por Brasileiros
 
