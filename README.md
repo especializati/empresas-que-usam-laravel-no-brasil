@@ -20,12 +20,13 @@ Worktec | http://www.worktec.eti.br/ | Soluções bancárias | Belo Horizonte-MG
 
 Nome | Link | Breve descrição
 ------------ | ------- | ------------
-Borget CMS | https://github.com/odirleiborgert/borgert-cms | CMS
-School | https://github.com/resultsystems/school | Sistema para gerenciamento de escolas
-Gitscrum | https://github.com/renatomarinho/laravel-gitscrum | Gerenciador de tarefas Git e Scrum
 Betfellows | https://betfellows.com/pt-br | Prognostico Esportivo
-Tef.net Ticket | https://portal.tef.net.br/ticket | Gerenciador de ordem de serviço
+Borget CMS | https://github.com/odirleiborgert/borgert-cms | CMS
+Gitscrum | https://github.com/renatomarinho/laravel-gitscrum | Gerenciador de tarefas Git e Scrum
+School | https://github.com/resultsystems/school | Sistema para gerenciamento de escolas
 StakeToys | https://www.staketoys.com/pt | Gestão de apostas esportivas
+Tef.net Ticket | https://portal.tef.net.br/ticket | Gerenciador de ordem de serviço
+
 
 ## Packages do Laravel desenvolvidos/mantidos por Brasileiros
 
@@ -41,7 +42,7 @@ Pagar.me Laravel | https://github.com/flyingluscas/pagarme-laravel | Pagar.me La
 SEOTools | https://github.com/artesaos/seotools | Otimização de SEO
 Slack API | https://github.com/vluzrmos/laravel-slack-api | Wrapper para API Web do Slack.com
 Tracker | https://github.com/antonioribeiro/tracker | Rastreador de estatísticas
-Validation | https://github.com/KennedyTedesco/Validation | Validação de dados 
+Validation | https://github.com/KennedyTedesco/Validation | Validação de dados
 
 
 # Como contribuir
@@ -50,7 +51,7 @@ Basta mandar um *Pull Request (PR)* editando este `README.md`
 
 ## Regras e boas práticas
 - Sem links de afiliados.
-- Sempre manter a ordem Alfabética.
+- Sempre manter a ordem Alfabética!
 - **Empresas que usam Laravel no Brasil**
   - Prencha todas as Colunas.
   - A empresa pode não *estar* no Brasil, porém se sua origem e/ou equipe for brasileira, ela pode estar nessa lista sem problemas.
