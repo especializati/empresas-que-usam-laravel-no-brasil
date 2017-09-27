@@ -6,6 +6,7 @@ Nome | Website  | Segmento | Cidade
 Agência Luma | http://www.agencialuma.com.br/ | Desenvolvimento Web | Florianópolis-SC
 EspecializaTI | http://www.especializati.com.br/ | Cursos e treinamentos | Catalão-GO
 e-HTL Viagens Online | https://www.e-htl.com.br/ | Turismo | São Paulo-SP
+Gigapix Estúdio Multimídia | http://gigapix.com.br/ | Desenvolvimento Web | Montes Claros-MG
 HPE Seguros | http://www.hpeseguros.com.br/ | Seguros | Catalão-GO
 King of Code | http://kingofcode.com.br/ | Desenvolvimento de Sistemas | Araçatuba-SP
 Kino Contabilidade | https://www.sejakino.com.br/ | Contabilidade | Belo Horizonte-MG
