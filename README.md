@@ -70,6 +70,7 @@ Mantenha contato com a comunidade Laravel Brasil:
 
 - [Site](http://www.laravel.com.br)
 - [Facebook (grupo)](https://www.facebook.com/groups/laravelbrasil/)
+- [Telegram](https://t.me/laravelbr)
 
 
 Inspirado por [empresas-que-usam-vue-no-brasil][link-vuejs-br].
