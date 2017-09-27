@@ -13,6 +13,7 @@ Leroy Merlim | https://www.leroymerlin.com.br/ | E-commerce | São Paulo-SP
 MG Papelaria | http://mgpapelaria.com.br/ | Papelaria | Sinop-MT
 Mitsubishi Motors | https://www.mmcb.com.br/ | Portal Corporativo | Catalão-GO
 Sicoob Credicom | http://www.sicoobcredicom.com.br/ | Cooperativa de crédito | Belo Horizonte-MG
+Six Creative | http://sixcreative.com.br/ | Desenvolvimento de Software | Rio de Janeiro-RJ 
 Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Sociais  | Florianópolis-SC
 WeJam | http://wejam.click/ | Agência de Publicidade | São Paulo-SP
 Worktec | http://www.worktec.eti.br/ | Soluções bancárias | Belo Horizonte-MG
