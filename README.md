@@ -41,6 +41,7 @@ Firewall | https://github.com/antonioribeiro/firewall | Firewall
 L5 Repository | https://github.com/andersao/l5-repository | Abstração da camada de banco de dados
 Laravel Page Speed | https://github.com/renatomarinho/laravel-page-speed | Inspirado no Mod Page Speed
 Laravel Pagseguro | https://github.com/michaeldouglas/laravel-pagseguro | Integração com API do PagSeguro
+Laravel Uploadable | https://github.com/TiagoSilvaPereira/Laravel-Uploadable/ | Upload automático de arquivos/imagens
 Pagar.me Laravel | https://github.com/flyingluscas/pagarme-laravel | Pagar.me Laravel SDK
 SEOTools | https://github.com/artesaos/seotools | Otimização de SEO
 Slack API | https://github.com/vluzrmos/laravel-slack-api | Wrapper para API Web do Slack.com
