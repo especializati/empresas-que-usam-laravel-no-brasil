@@ -37,6 +37,7 @@ Tef.net Ticket | https://portal.tef.net.br/ticket | Gerenciador de ordem de serv
 
 Nome | Link | Breve descrição
 ------------ | ------- | ------------
+Ci | https://github.com/antonioribeiro/ci | Dashboard de interação contínua
 Defender | https://github.com/artesaos/defender | ACL
 Entrust | https://github.com/Zizaco/entrust | ACL
 Firewall | https://github.com/antonioribeiro/firewall | Firewall
