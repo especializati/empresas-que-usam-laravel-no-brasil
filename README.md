@@ -42,6 +42,7 @@ Defender | https://github.com/artesaos/defender | ACL
 Entrust | https://github.com/Zizaco/entrust | ACL
 Firewall | https://github.com/antonioribeiro/firewall | Firewall
 L5 Repository | https://github.com/andersao/l5-repository | Abstração da camada de banco de dados
+Laravel Boletos | https://github.com/eduardokum/laravel-boleto |  Boletos e remessas
 Laravel Page Speed | https://github.com/renatomarinho/laravel-page-speed | Inspirado no Mod Page Speed
 Laravel Pagseguro | https://github.com/michaeldouglas/laravel-pagseguro | Integração com API do PagSeguro
 Laravel Uploadable | https://github.com/TiagoSilvaPereira/Laravel-Uploadable/ | Upload automático de arquivos/imagens
