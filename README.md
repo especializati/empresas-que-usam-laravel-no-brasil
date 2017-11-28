@@ -4,6 +4,7 @@
 Nome | Website  | Segmento | Cidade
 ------------ | ------- |  ------------ |-------
 Agência Luma | http://www.agencialuma.com.br/ | Desenvolvimento Web | Florianópolis-SC
+Avviso Sistemas Integrados | https://avviso.com.br/ | Desenvolvimento de Sistemas | Natal/RN
 Blueticket | http://www.blueticket.com.br/ | Tiqueteira | Florianópolis-SC
 EspecializaTI | http://www.especializati.com.br/ | Cursos e treinamentos | Catalão-GO
 e-HTL Viagens Online | https://www.e-htl.com.br/ | Turismo | São Paulo-SP
