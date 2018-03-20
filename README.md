@@ -16,6 +16,7 @@ Leroy Merlim | https://www.leroymerlin.com.br/ | E-commerce | São Paulo-SP
 MG Papelaria | http://mgpapelaria.com.br/ | Papelaria | Sinop-MT
 Mitsubishi Motors | https://www.mmcb.com.br/ | Portal Corporativo | Catalão-GO
 Pull Up Tecnologia | http://www.pullup.tech/ | Desenvolvimento de Software | Formiga-MG
+Reparador Mit | https://www.reparadormit.com.br | Portal Corporativo | Catalão-GO
 Sicoob Credicom | http://www.sicoobcredicom.com.br/ | Cooperativa de crédito | Belo Horizonte-MG
 Six Creative | http://sixcreative.com.br/ | Desenvolvimento de Software | Rio de Janeiro-RJ
 Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Sociais  | Florianópolis-SC
@@ -41,6 +42,7 @@ Nome | Link | Breve descrição
 ------------ | ------- | ------------
 Ci | https://github.com/antonioribeiro/ci | Dashboard de interação contínua
 Defender | https://github.com/artesaos/defender | ACL
+Eloquent UUID | https://github.com/YourAppRocks/eloquent-uuid | Adiciona suporte para geração de UUID automaticamente para seus models Eloquent
 Entrust | https://github.com/Zizaco/entrust | ACL
 Firewall | https://github.com/antonioribeiro/firewall | Firewall
 L5 Repository | https://github.com/andersao/l5-repository | Abstração da camada de banco de dados
