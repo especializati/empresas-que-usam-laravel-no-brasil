@@ -11,6 +11,7 @@ e-HTL Viagens Online | https://www.e-htl.com.br/ | Turismo | São Paulo-SP
 eMiolo.com | http://emiolo.com/ | Desenvolvimento de Software, Marketing e Gestão de Mídias Sociais | Juiz de Fora/MG
 Gigapix Estúdio Multimídia | http://gigapix.com.br/ | Desenvolvimento Web | Montes Claros-MG
 HPE Seguros | http://www.hpeseguros.com.br/ | Seguros | Catalão-GO
+Interaktiv | https://www.interaktiv.com.br/ | Desenvolvimento de Software | São Paulo-SP
 King of Code | http://kingofcode.com.br/ | Desenvolvimento de Sistemas | Araçatuba-SP
 Kino Contabilidade | https://www.sejakino.com.br/ | Contabilidade | Belo Horizonte-MG
 Leroy Merlim | https://www.leroymerlin.com.br/ | E-commerce | São Paulo-SP
@@ -24,7 +25,7 @@ Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Soc
 Suzuki Veículos | https://www.portalsvb.com.br/ | Portal Corporativo  | Catalão-GO
 WeJam | http://wejam.click/ | Agência de Publicidade | São Paulo-SP
 Worktec | http://www.worktec.eti.br/ | Soluções bancárias | Belo Horizonte-MG
-Interaktiv | https://www.interaktiv.com.br/ | Desenvolvimento de Software | São Paulo-SP
+
 
 ## Projetos que usam Laravel no Brasil
 
