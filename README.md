@@ -24,6 +24,7 @@ Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Soc
 Suzuki Veículos | https://www.portalsvb.com.br/ | Portal Corporativo  | Catalão-GO
 WeJam | http://wejam.click/ | Agência de Publicidade | São Paulo-SP
 Worktec | http://www.worktec.eti.br/ | Soluções bancárias | Belo Horizonte-MG
+Interaktiv | https://www.interaktiv.com.br/ | Desenvolvimento de Software | São Paulo-SP
 
 ## Projetos que usam Laravel no Brasil
 
