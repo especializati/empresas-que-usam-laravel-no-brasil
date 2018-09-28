@@ -17,6 +17,7 @@ Kino Contabilidade | https://www.sejakino.com.br/ | Contabilidade | Belo Horizon
 Leroy Merlim | https://www.leroymerlin.com.br/ | E-commerce | São Paulo-SP
 MG Papelaria | http://mgpapelaria.com.br/ | Papelaria | Sinop-MT
 Mitsubishi Motors | https://www.mmcb.com.br/ | Portal Corporativo | Catalão-GO
+New Way Soluções Web e Mobile | http://www.gruponewway.com.br | Desenvolvimento Web| Bauru-SP
 Pull Up Tecnologia | http://www.pullup.tech/ | Desenvolvimento de Software | Formiga-MG
 Reparador Mit | https://www.reparadormit.com.br | Portal Corporativo | Catalão-GO
 Scaffold Education | http://scaffoldeducation.com.br | Desenvolvimento de Software e Produção de conteúdo focados em Educação | Bauru-SP
