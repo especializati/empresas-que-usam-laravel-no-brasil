@@ -20,6 +20,7 @@ Mitsubishi Motors | https://www.mmcb.com.br/ | Portal Corporativo | Catalão-GO
 Pull Up Tecnologia | http://www.pullup.tech/ | Desenvolvimento de Software | Formiga-MG
 Reparador Mit | https://www.reparadormit.com.br | Portal Corporativo | Catalão-GO
 Scaffold Education | http://scaffoldeducation.com.br | Desenvolvimento de Software e Produção de conteúdo focados em Educação | Bauru-SP
+Servimed | http://www.servimed.com.br | Distribuição de medicamentos| Bauru-SP
 Sicoob Credicom | http://www.sicoobcredicom.com.br/ | Cooperativa de crédito | Belo Horizonte-MG
 Six Creative | http://sixcreative.com.br/ | Desenvolvimento de Software | Rio de Janeiro-RJ
 Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Sociais  | Florianópolis-SC
