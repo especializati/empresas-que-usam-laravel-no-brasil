@@ -6,6 +6,7 @@ Nome | Website  | Segmento | Cidade
 Agência Luma | http://www.agencialuma.com.br/ | Desenvolvimento Web | Florianópolis-SC
 Avviso Sistemas Integrados | https://avviso.com.br/ | Desenvolvimento de Sistemas | Natal/RN
 Blueticket | http://www.blueticket.com.br/ | Tiqueteira | Florianópolis-SC
+Escavador | https://www.escavador.com/ | Legaltech | Salvador-BA
 EspecializaTI | http://www.especializati.com.br/ | Cursos e treinamentos | Catalão-GO
 e-HTL Viagens Online | https://www.e-htl.com.br/ | Turismo | São Paulo-SP
 eMiolo.com | http://emiolo.com/ | Desenvolvimento de Software, Marketing e Gestão de Mídias Sociais | Juiz de Fora/MG
@@ -37,6 +38,7 @@ Nome | Link | Breve descrição
 Betfellows | https://betfellows.com/pt-br | Prognostico Esportivo
 Borget CMS | https://github.com/odirleiborgert/borgert-cms | CMS
 Gitscrum | https://github.com/renatomarinho/laravel-gitscrum | Gerenciador de tarefas Git e Scrum
+MeuBuzu | http://www.meubuzu.com.br | Sistema para encontrar ônibus em Salvador
 School | https://github.com/resultsystems/school | Sistema para gerenciamento de escolas
 StakeToys | https://www.staketoys.com/pt | Gestão de apostas esportivas
 Tef.net Ticket | https://portal.tef.net.br/ticket | Gerenciador de ordem de serviço
