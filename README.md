@@ -37,6 +37,7 @@ Nome | Link | Breve descrição
 ------------ | ------- | ------------
 Betfellows | https://betfellows.com/pt-br | Prognostico Esportivo
 Borget CMS | https://github.com/odirleiborgert/borgert-cms | CMS
+Consulta Recall | http://consultarecall.com.br | Consulta de recalls feitos por empresas no Brasil 
 Gitscrum | https://github.com/renatomarinho/laravel-gitscrum | Gerenciador de tarefas Git e Scrum
 MeuBuzu | http://www.meubuzu.com.br | Sistema para encontrar ônibus em Salvador
 School | https://github.com/resultsystems/school | Sistema para gerenciamento de escolas
