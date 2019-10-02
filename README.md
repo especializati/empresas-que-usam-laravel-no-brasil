@@ -4,6 +4,7 @@
 Nome | Website  | Segmento | Cidade
 ------------ | ------- |  ------------ |-------
 Agência Luma | http://www.agencialuma.com.br/ | Desenvolvimento Web | Florianópolis-SC
+Akkurat | https://www.akkuratsofthouse.com/ | Desenvolvimento de Software | Goiânia-GO
 Avviso Sistemas Integrados | https://avviso.com.br/ | Desenvolvimento de Sistemas | Natal/RN
 Blueticket | http://www.blueticket.com.br/ | Tiqueteira | Florianópolis-SC
 Escavador | https://www.escavador.com/ | Legaltech | Salvador-BA
