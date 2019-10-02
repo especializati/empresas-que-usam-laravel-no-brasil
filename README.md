@@ -10,6 +10,7 @@ Escavador | https://www.escavador.com/ | Legaltech | Salvador-BA
 EspecializaTI | http://www.especializati.com.br/ | Cursos e treinamentos | Catalão-GO
 e-HTL Viagens Online | https://www.e-htl.com.br/ | Turismo | São Paulo-SP
 eMiolo.com | http://emiolo.com/ | Desenvolvimento de Software, Marketing e Gestão de Mídias Sociais | Juiz de Fora/MG
+Estúdio Criar | https://estudiocriar.com/ | Desenvolvimento de Software | Goiânia-GO
 Gigapix Estúdio Multimídia | http://gigapix.com.br/ | Desenvolvimento Web | Montes Claros-MG
 HPE Seguros | http://www.hpeseguros.com.br/ | Seguros | Catalão-GO
 Interaktiv | https://www.interaktiv.com.br/ | Desenvolvimento de Software | São Paulo-SP
