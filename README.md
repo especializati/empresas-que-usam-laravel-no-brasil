@@ -7,6 +7,7 @@ Agência Luma | http://www.agencialuma.com.br/ | Desenvolvimento Web | Florianó
 Akkurat | https://www.akkuratsofthouse.com/ | Desenvolvimento de Software | Goiânia-GO
 Avviso Sistemas Integrados | https://avviso.com.br/ | Desenvolvimento de Sistemas | Natal/RN
 Blueticket | http://www.blueticket.com.br/ | Tiqueteira | Florianópolis-SC
+Britvic Ebba | https://britvic.ebba.com.br/ | Consumo | São Paulo-SP
 Escavador | https://www.escavador.com/ | Legaltech | Salvador-BA
 EspecializaTI | http://www.especializati.com.br/ | Cursos e treinamentos | Catalão-GO
 e-HTL Viagens Online | https://www.e-htl.com.br/ | Turismo | São Paulo-SP
@@ -40,7 +41,7 @@ Nome | Link | Breve descrição
 ------------ | ------- | ------------
 Betfellows | https://betfellows.com/pt-br | Prognostico Esportivo
 Borget CMS | https://github.com/odirleiborgert/borgert-cms | CMS
-Consulta Recall | http://consultarecall.com.br | Consulta de recalls feitos por empresas no Brasil 
+Consulta Recall | http://consultarecall.com.br | Consulta de recalls feitos por empresas no Brasil
 Gitscrum | https://github.com/renatomarinho/laravel-gitscrum | Gerenciador de tarefas Git e Scrum
 MeuBuzu | http://www.meubuzu.com.br | Sistema para encontrar ônibus em Salvador
 School | https://github.com/resultsystems/school | Sistema para gerenciamento de escolas
