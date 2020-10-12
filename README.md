@@ -8,13 +8,14 @@ Akkurat | https://www.akkuratsofthouse.com/ | Desenvolvimento de Software | Goi�
 Avviso Sistemas Integrados | https://avviso.com.br/ | Desenvolvimento de Sistemas | Natal/RN
 Blueticket | http://www.blueticket.com.br/ | Tiqueteira | Florianópolis-SC
 Britvic Ebba | https://britvic.ebba.com.br/ | Consumo | São Paulo-SP
-Escavador | https://www.escavador.com/ | Legaltech | Salvador-BA
-EspecializaTI | http://www.especializati.com.br/ | Cursos e treinamentos | Catalão-GO
+Datapage | https://datapage.com.br/ | Desenvolvimento de Software | Goiânia-GO
 e-HTL Viagens Online | https://www.e-htl.com.br/ | Turismo | São Paulo-SP
 eMiolo.com | http://emiolo.com/ | Desenvolvimento de Software, Marketing e Gestão de Mídias Sociais | Juiz de Fora/MG
+Escavador | https://www.escavador.com/ | Legaltech | Salvador-BA
+EspecializaTI | http://www.especializati.com.br/ | Cursos e treinamentos | Catalão-GO
 Estúdio Criar | https://estudiocriar.com/ | Desenvolvimento de Software | Goiânia-GO
+FreteBras     | https://www.fretebras.com.br/ | Soluções digitais para o setor de transporte de cargas | Catalão-GO
 Gigapix Estúdio Multimídia | http://gigapix.com.br/ | Desenvolvimento Web | Montes Claros-MG
-Datapage | https://datapage.com.br/ | Desenvolvimento de Software | Goiânia-GO
 HPE Seguros | http://www.hpeseguros.com.br/ | Seguros | Catalão-GO
 Interaktiv | https://www.interaktiv.com.br/ | Desenvolvimento de Software | São Paulo-SP
 King of Code | http://kingofcode.com.br/ | Desenvolvimento de Sistemas | Araçatuba-SP
