@@ -29,7 +29,6 @@ Six Creative | http://sixcreative.com.br/ | Desenvolvimento de Software | Rio de
 Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Sociais  | Florianópolis-SC
 Suzuki Veículos | https://www.portalsvb.com.br/ | Portal Corporativo  | Catalão-GO
 Venda.la| https://vendala.com.br/ | Hub E-commerce | Ribeirão Preto-SP
-
 WeJam | http://wejam.click/ | Agência de Publicidade | São Paulo-SP
 Worktec | http://www.worktec.eti.br/ | Soluções bancárias | Belo Horizonte-MG
 
