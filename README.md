@@ -7,6 +7,7 @@ Agência Luma | http://www.agencialuma.com.br/ | Desenvolvimento Web | Florianó
 Agily Tecnologia | https://www.agily.com.br/ | Desenvolvimento de Software | Ribeirão Preto-SP
 Akkurat | https://www.akkuratsofthouse.com/ | Desenvolvimento de Software | Goiânia-GO
 Avviso Sistemas Integrados | https://avviso.com.br/ | Desenvolvimento de Sistemas | Natal/RN
+Basis Tecnologia da Informação | https://www.basis.com.br/ | Desenvolvimento de Sistemas | Brasília-DF
 Blueticket | http://www.blueticket.com.br/ | Tiqueteira | Florianópolis-SC
 Britvic Ebba | https://britvic.ebba.com.br/ | Consumo | São Paulo-SP
 Datapage | https://datapage.com.br/ | Desenvolvimento de Software | Goiânia-GO
