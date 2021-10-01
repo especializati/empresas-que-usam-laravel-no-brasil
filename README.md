@@ -10,6 +10,7 @@ Avviso Sistemas Integrados | https://avviso.com.br/ | Desenvolvimento de Sistema
 Basis Tecnologia da Informação | https://www.basis.com.br/ | Desenvolvimento de Sistemas | Brasília-DF
 Blueticket | http://www.blueticket.com.br/ | Tiqueteira | Florianópolis-SC
 Britvic Ebba | https://britvic.ebba.com.br/ | Consumo | São Paulo-SP
+C6 Bank | https://www.c6bank.com.br/ | Fintech | São Paulo-SP
 Datapage | https://datapage.com.br/ | Desenvolvimento de Software | Goiânia-GO
 e-HTL Viagens Online | https://www.e-htl.com.br/ | Turismo | São Paulo-SP
 eMiolo.com | http://emiolo.com/ | Desenvolvimento de Software, Marketing e Gestão de Mídias Sociais | Juiz de Fora/MG
