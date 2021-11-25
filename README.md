@@ -3,41 +3,44 @@
 
 Nome | Website  | Segmento | Cidade
 ------------ | ------- |  ------------ |-------
-Agência Luma | http://www.agencialuma.com.br/ | Desenvolvimento Web | Florianópolis-SC
-Agily Tecnologia | https://www.agily.com.br/ | Desenvolvimento de Software | Ribeirão Preto-SP
-Akkurat | https://www.akkuratsofthouse.com/ | Desenvolvimento de Software | Goiânia-GO
-Avviso Sistemas Integrados | https://avviso.com.br/ | Desenvolvimento de Sistemas | Natal/RN
-Basis Tecnologia da Informação | https://www.basis.com.br/ | Desenvolvimento de Sistemas | Brasília-DF
-Blueticket | http://www.blueticket.com.br/ | Tiqueteira | Florianópolis-SC
-Britvic Ebba | https://britvic.ebba.com.br/ | Consumo | São Paulo-SP
-Datapage | https://datapage.com.br/ | Desenvolvimento de Software | Goiânia-GO
-e-HTL Viagens Online | https://www.e-htl.com.br/ | Turismo | São Paulo-SP
-eMiolo.com | http://emiolo.com/ | Desenvolvimento de Software, Marketing e Gestão de Mídias Sociais | Juiz de Fora/MG
-Escavador | https://www.escavador.com/ | Legaltech | Salvador-BA
-EspecializaTI | http://www.especializati.com.br/ | Cursos e treinamentos | Catalão-GO
-Estúdio Criar | https://estudiocriar.com/ | Desenvolvimento de Software | Goiânia-GO
-FreteBras     | https://www.fretebras.com.br/ | Soluções digitais para o setor de transporte de cargas | Catalão-GO
-Gigapix Estúdio Multimídia | http://gigapix.com.br/ | Desenvolvimento Web | Montes Claros-MG
-HPE Seguros | http://www.hpeseguros.com.br/ | Seguros | Catalão-GO
-Interaktiv | https://www.interaktiv.com.br/ | Desenvolvimento de Software | São Paulo-SP
-King of Code | http://kingofcode.com.br/ | Desenvolvimento de Sistemas | Araçatuba-SP
-Kino Contabilidade | https://www.sejakino.com.br/ | Contabilidade | Belo Horizonte-MG
-Leroy Merlim | https://www.leroymerlin.com.br/ | E-commerce | São Paulo-SP
-MG Papelaria | http://mgpapelaria.com.br/ | Papelaria | Sinop-MT
-Mitsubishi Motors | https://www.mmcb.com.br/ | Portal Corporativo | Catalão-GO
-New Way Soluções Web e Mobile | http://www.gruponewway.com.br | Desenvolvimento Web| Bauru-SP
-OW Interactive | http://www.owinteractive.com/ | Desenvolvimento Web| Ribeirão Preto-SP
-Pull Up Tecnologia | http://www.pullup.tech/ | Desenvolvimento de Software | Formiga-MG
-Reparador Mit | https://www.reparadormit.com.br | Portal Corporativo | Catalão-GO
-Scaffold Education | http://scaffoldeducation.com.br | Desenvolvimento de Software e Produção de conteúdo focados em Educação | Bauru-SP
-Servimed | http://www.servimed.com.br | Distribuição de medicamentos| Bauru-SP
-Sicoob Credicom | http://www.sicoobcredicom.com.br/ | Cooperativa de crédito | Belo Horizonte-MG
-Six Creative | http://sixcreative.com.br/ | Desenvolvimento de Software | Rio de Janeiro-RJ
-Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Sociais  | Florianópolis-SC
-Suzuki Veículos | https://www.portalsvb.com.br/ | Portal Corporativo  | Catalão-GO
-Venda.la| https://vendala.com.br/ | Hub E-commerce | Ribeirão Preto-SP
-WeJam | http://wejam.click/ | Agência de Publicidade | São Paulo-SP
-Worktec | http://www.worktec.eti.br/ | Soluções bancárias | Belo Horizonte-MG
+123Milhas| https://www.123milhas.com.br | Viagens e Turismo | Belo Horizonte - MG
+Agência Luma | http://www.agencialuma.com.br | Desenvolvimento Web | Florianópolis - SC
+Agily Tecnologia | https://www.agily.com.br | Desenvolvimento de Software | Ribeirão Preto - SP
+Akkurat | https://www.akkuratsofthouse.com | Desenvolvimento de Software | Goiânia - GO
+Avviso Sistemas Integrados | https://avviso.com.br | Desenvolvimento de Sistemas | Natal - RN
+Basis Tecnologia da Informação | https://www.basis.com.br | Desenvolvimento de Sistemas | Brasília - DF
+Blueticket | http://www.blueticket.com.br | Tiqueteira | Florianópolis - SC
+Britvic Ebba | https://britvic.ebba.com.br | Consumo | São Paulo - SP
+Datapage | https://datapage.com.br | Desenvolvimento de Software | Goiânia - GO
+e-HTL Viagens Online | https://www.e-htl.com.br | Turismo | São Paulo - SP
+eMiolo.com | http://emiolo.com | Desenvolvimento de Software, Marketing e Gestão de Mídias Sociais | Juiz de Fora - MG
+Escavador | https://www.escavador.com | Legaltech | Salvador - BA
+EspecializaTI | http://www.especializati.com.br | Cursos e treinamentos | Catalão - GO
+Estúdio Criar | https://estudiocriar.com | Desenvolvimento de Software | Goiânia - GO
+FreteBras     | https://www.fretebras.com.br | Soluções digitais para o setor de transporte de cargas | Catalão - GO
+Gigapix Estúdio Multimídia | http://gigapix.com.br | Desenvolvimento Web | Montes Claros - MG
+Hot Milhas| https://www.hotmilhas.com.br | Compra de milhas aéreas | Belo Horizonte - MG
+HPE Seguros | http://www.hpeseguros.com.br | Seguros | Catalão - GO
+Interaktiv | https://www.interaktiv.com.br | Desenvolvimento de Software | São Paulo - SP
+King of Code | http://kingofcode.com.br | Desenvolvimento de Sistemas | Araçatuba - SP
+Kino Contabilidade | https://www.sejakino.com.br | Contabilidade | Belo Horizonte - MG
+Leroy Merlim | https://www.leroymerlin.com.br | E-commerce | São Paulo - SP
+MG Papelaria | http://mgpapelaria.com.br | Papelaria | Sinop - MT
+Mitsubishi Motors | https://www.mmcb.com.br | Portal Corporativo | Catalão - GO
+New Way Soluções Web e Mobile | http://www.gruponewway.com.br | Desenvolvimento Web | Bauru - SP
+OW Interactive | http://www.owinteractive.com | Desenvolvimento Web | Ribeirão Preto - SP
+Portabilis | https://portabilis.com.br | Desenvolvimento de Software e Consultoria | Içara - SC
+Pull Up Tecnologia | http://www.pullup.tech | Desenvolvimento de Software | Formiga - MG
+Reparador Mit | https://www.reparadormit.com.br | Portal Corporativo | Catalão - GO
+Scaffold Education | http://scaffoldeducation.com.br | Desenvolvimento de Software e Produção de conteúdo focados em Educação | Bauru - SP
+Servimed | http://www.servimed.com.br | Distribuição de medicamentos| Bauru - SP
+Sicoob Credicom | http://www.sicoobcredicom.com.br | Cooperativa de crédito | Belo Horizonte - MG
+Six Creative | http://sixcreative.com.br | Desenvolvimento de Software | Rio de Janeiro - RJ
+Social Arte | http://www.socialarte.com.br | Marketing e Gestão de Mídias Sociais  | Florianópolis - SC
+Suzuki Veículos | https://www.portalsvb.com.br | Portal Corporativo  | Catalão - GO
+Venda.la| https://vendala.com.br | Hub E-commerce | Ribeirão Preto - SP
+WeJam | http://wejam.click | Agência de Publicidade | São Paulo - SP
+Worktec | http://www.worktec.eti.br | Soluções bancárias | Belo Horizonte - MG
 
 
 ## Projetos que usam Laravel no Brasil
@@ -48,6 +51,7 @@ Betfellows | https://betfellows.com/pt-br | Prognostico Esportivo
 Borget CMS | https://github.com/odirleiborgert/borgert-cms | CMS
 Consulta Recall | http://consultarecall.com.br | Consulta de recalls feitos por empresas no Brasil
 Gitscrum | https://github.com/renatomarinho/laravel-gitscrum | Gerenciador de tarefas Git e Scrum
+i-Educar | https://github.com/portabilis/i-educar | Sistema para gestão escolar
 MeuBuzu | http://www.meubuzu.com.br | Sistema para encontrar ônibus em Salvador
 School | https://github.com/resultsystems/school | Sistema para gerenciamento de escolas
 StakeToys | https://www.staketoys.com/pt | Gestão de apostas esportivas
@@ -67,7 +71,7 @@ L5 Repository | https://github.com/andersao/l5-repository | Abstração da camad
 Laravel Boletos | https://github.com/eduardokum/laravel-boleto |  Boletos e remessas
 Laravel Page Speed | https://github.com/renatomarinho/laravel-page-speed | Inspirado no Mod Page Speed
 Laravel Pagseguro | https://github.com/michaeldouglas/laravel-pagseguro | Integração com API do PagSeguro
-Laravel Uploadable | https://github.com/TiagoSilvaPereira/Laravel-Uploadable/ | Upload automático de arquivos/imagens
+Laravel Uploadable | https://github.com/TiagoSilvaPereira/Laravel-Uploadable | Upload automático de arquivos/imagens
 Pagar.me Laravel | https://github.com/flyingluscas/pagarme-laravel | Pagar.me Laravel SDK
 SEOTools | https://github.com/artesaos/seotools | Otimização de SEO
 Slack API | https://github.com/vluzrmos/laravel-slack-api | Wrapper para API Web do Slack.com
