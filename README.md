@@ -35,6 +35,7 @@ Sicoob Credicom | http://www.sicoobcredicom.com.br/ | Cooperativa de crédito | 
 Six Creative | http://sixcreative.com.br/ | Desenvolvimento de Software | Rio de Janeiro-RJ
 Social Arte | http://www.socialarte.com.br/ | Marketing e Gestão de Mídias Sociais  | Florianópolis-SC
 Suzuki Veículos | https://www.portalsvb.com.br/ | Portal Corporativo  | Catalão-GO
+VarejoAqui | http://varejoaqui.online | B2B Varejistas e Indústrias Alimentícias | RS
 Venda.la| https://vendala.com.br/ | Hub E-commerce | Ribeirão Preto-SP
 WeJam | http://wejam.click/ | Agência de Publicidade | São Paulo-SP
 Worktec | http://www.worktec.eti.br/ | Soluções bancárias | Belo Horizonte-MG
