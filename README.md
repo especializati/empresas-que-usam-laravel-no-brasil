@@ -16,6 +16,7 @@ eMiolo.com | http://emiolo.com/ | Desenvolvimento de Software, Marketing e Gest�
 Escavador | https://www.escavador.com/ | Legaltech | Salvador-BA
 EspecializaTI | http://www.especializati.com.br/ | Cursos e treinamentos | Catalão-GO
 Estúdio Criar | https://estudiocriar.com/ | Desenvolvimento de Software | Goiânia-GO
+Fivelabs | https://fivelabs.com.br/ | Desenvolvimento de Software | São José-SC
 FreteBras     | https://www.fretebras.com.br/ | Soluções digitais para o setor de transporte de cargas | Catalão-GO
 Gigapix Estúdio Multimídia | http://gigapix.com.br/ | Desenvolvimento Web | Montes Claros-MG
 HPE Seguros | http://www.hpeseguros.com.br/ | Seguros | Catalão-GO
@@ -38,7 +39,6 @@ Suzuki Veículos | https://www.portalsvb.com.br/ | Portal Corporativo  | Catalã
 Venda.la| https://vendala.com.br/ | Hub E-commerce | Ribeirão Preto-SP
 WeJam | http://wejam.click/ | Agência de Publicidade | São Paulo-SP
 Worktec | http://www.worktec.eti.br/ | Soluções bancárias | Belo Horizonte-MG
-
 
 ## Projetos que usam Laravel no Brasil
 
